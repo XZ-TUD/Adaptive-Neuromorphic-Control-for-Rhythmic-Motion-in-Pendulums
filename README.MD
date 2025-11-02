@@ -27,7 +27,7 @@ The neuromorphic controller autonomously generates and regulates oscillations wi
 | ----------------------------- | -------------------------------------------------- |
 | Neuromorphic Rhythmic Control | Based on biologically-inspired HCO circuits        |
 | Adaptive Gain Regulation      | Ensures amplitude/frequency robustness             |
-| Pendulum Validation           | Shows sustained rhythmic motion under disturbances |
+| Pendulum Validation           | Shows sustained rhythmic motion                    |
 | High Frequency Range          | Control demonstrated at **1–100 Hz**               |
 
 ---
