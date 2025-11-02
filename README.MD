@@ -1,5 +1,3 @@
-Absolutely — here is a polished **README.md** formatted for your GitHub repository. You can copy and paste directly, and modify if needed:
-
 ---
 
 # Adaptive Neuromorphic Control for Rhythmic Motion in Pendulums
