@@ -1,8 +1,8 @@
-# Adaptive Neuromorphic Control for Rhythmic Motion in Pendulums
+# Adaptive Neuromorphic Control of a Pendulum for Sustained Rhythmic Swing
 
 This repository contains the MATLAB source code and figures accompanying the paper:
 
-**“Adaptive Neuromorphic Control for Rhythmic Motion in Pendulums”**
+**“Adaptive Neuromorphic Control of a Pendulum for Sustained Rhythmic Swing”**
 *Xinxin Zhang, Blas M. Vinagre, Inés Tejado, and Rodolphe Sepulchre*
 
 ---
