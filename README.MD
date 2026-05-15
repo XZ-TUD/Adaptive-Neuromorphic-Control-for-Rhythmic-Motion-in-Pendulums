@@ -1,9 +1,9 @@
-# Adaptive Neuromorphic Control of a Pendulum for Sustained Rhythmic Swing
+# Analysis and Design of Adaptive Neuromorphic Control for Periodic Oscillation
 
 This repository contains the MATLAB source code and figures accompanying the paper:
 
-**“Adaptive Neuromorphic Control of a Pendulum for Sustained Rhythmic Swing”**
-*Xinxin Zhang, Blas M. Vinagre, Inés Tejado, and Rodolphe Sepulchre*
+**“Analysis and Design of Adaptive Neuromorphic Control for Periodic Oscillation”**
+*Xinxin Zhang, Blas M. Vinagre, and Inés Tejado*
 
 ---
 
@@ -37,9 +37,9 @@ The neuromorphic controller autonomously generates and regulates oscillations wi
 
 If you use this code in your research, please cite:
 
-> **Adaptive Neuromorphic Control of a Pendulum for Sustained Rhythmic Swing**
-> X. Zhang, B. M. Vinagre, I. Tejado, and R. Sepulchre.
-> *[Conference/Journal info once published]*
+> **Analysis and Design of Adaptive Neuromorphic Control for Periodic Oscillation**
+> X. Zhang, B. M. Vinagre, and I. Tejado.
+> *Proceedings of the IFAC World Congress. 2026*
 
 BibTeX entry will be added once the paper is formally published.
 
@@ -55,6 +55,12 @@ This research was partially supported by:
 
 ---
 
+## 🤝 Acknowledgment
+
+The authors thank Prof. Rodolphe Sepulchre for his valuable discussions and feedback throughout this work.
+
+
+---
 ## 📬 Contact
 
 For questions or collaboration inquiries:
