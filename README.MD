@@ -3,7 +3,7 @@
 This repository contains the MATLAB source code and figures accompanying the paper:
 
 **“Analysis and Design of Adaptive Neuromorphic Control for Periodic Oscillation”**
-*Xinxin Zhang, Blas M. Vinagre, and Inés Tejado*
+*Xinxin Zhang, Blas M. Vinagre, Inés Tejado, and Rodolphe Sepulchre*
 
 ---
 
@@ -53,11 +53,6 @@ This research was partially supported by:
   Project: PID2022-141409OB-C22 / AEI / 10.13039/501100011033 / FEDER, EU
 * **European Regional Development Fund (FEDER)** — *“A way to make Europe”*
 
----
-
-## 🤝 Acknowledgment
-
-The authors thank Prof. Rodolphe Sepulchre for his valuable discussions and feedback throughout this work.
 
 
 ---
