@@ -1,4 +1,4 @@
-# Analysis and Design of Adaptive Neuromorphic Control for Periodic Oscillation
+# Adaptive neuromorphic control of a pendulum for sustained rhythmic swing
 
 This repository contains the MATLAB source code and figures accompanying the paper:
 
