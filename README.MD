@@ -37,9 +37,7 @@ The neuromorphic controller autonomously generates and regulates oscillations wi
 
 If you use this code in your research, please cite:
 
-> **Analysis and Design of Adaptive Neuromorphic Control for Periodic Oscillation**
-> X. Zhang, B. M. Vinagre, and I. Tejado.
-> *Proceedings of the IFAC World Congress. 2026*
+ 
 
 BibTeX entry will be added once the paper is formally published.
 
